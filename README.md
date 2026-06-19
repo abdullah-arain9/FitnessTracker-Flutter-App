@@ -3,7 +3,7 @@
 A sleek Flutter fitness tracking app that helps users monitor their daily activity — steps, water intake, workouts, sleep, and calories — through a clean, gradient-based interface with animated progress rings and interactive charts.
 
 <p align="center">
- <img src="screenshots/app_preview1.png" alt="Fitness Tracker Preview" width="100%">
+ <img src="app_preview1.png" alt="Fitness Tracker Preview" width="100%">
 </p>
 
 ---
